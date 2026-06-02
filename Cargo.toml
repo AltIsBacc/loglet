@@ -1,0 +1,20 @@
+[package]
+name = "loglet"
+author = "AltIsBacc"
+description = "A lightweight zero-heap logging library"
+
+version = "0.0.1"
+edition = "2024"
+
+repository = "https://github.com/AltIsBacc/loglet"
+license = "MIT"
+readme = "README.md"
+
+keywords = ["logging", "log", "no-alloc", "cli"]
+categories = ["development-tools::debugging"]
+
+exclude = ["examples/*", ".github/*"]
+
+[dependencies]
+owo-colors = { version = "4.3.0" }
+
