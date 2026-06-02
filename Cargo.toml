@@ -13,7 +13,7 @@ readme = "README.md"
 keywords = [ "logging", "log", "no-alloc", "cli" ]
 categories = [ "development-tools::debugging" ]
 
-exclude = [ "examples/*", ".github/*" ]
+exclude = [ ".github/*" ]
 
 [dependencies]
 owo-colors = { version = "4.3.0" }
