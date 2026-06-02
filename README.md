@@ -8,7 +8,7 @@ Add to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-loglet = "0.0.1"
+loglet = "0.0.2"
 ```
 
 Or via the command line:
